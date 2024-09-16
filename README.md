@@ -35,17 +35,8 @@ Welcome to the **Turtle Racing Game**! This Python program uses the `turtle` mod
 
 ## Example Output
 
-Enter number of racers you would like (2 - 10): 4
-Enter the number of rounds for the tournament: 3
-Winner of round 1: blue
-Winner of round 2: orange
-Winner of round 3: cyan
-
-Final Scores:
-Blue: 10 points
-Orange: 10 points
-Cyan: 10 points
-Red: 0 points
+![<img width="202" alt="OUTPUT" src="https://github.com/user-attachments/assets/441ba0bc-e097-4b26-9f0f-76e9aa14b799">
+]
 
 ## Customization
 
