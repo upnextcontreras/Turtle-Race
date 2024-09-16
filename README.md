@@ -29,12 +29,9 @@ Welcome to the **Turtle Racing Game**! This Python program uses the `turtle` mod
 
    cd turtle-racing-game
    
-4. Run the game:
+3. Run the game:
    
    python3 main.py
-
-```
-
 
 4. Follow the on-screen instructions:
    - Enter the number of racers(between 2 and 10).
