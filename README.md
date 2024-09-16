@@ -11,6 +11,8 @@ Welcome to the **Turtle Racing Game**! This Python program uses the `turtle` mod
 
 ## Demo
 
+<img width="300" height="500"alt="TURTLE 1" src="https://github.com/user-attachments/assets/4a9902e8-5483-4d59-957d-02629d75e35c">
+
 
 
 ## Requirements
