@@ -21,14 +21,17 @@ Welcome to the **Turtle Racing Game**! This Python program uses the `turtle` mod
 ## How to Run
 
 1. **Clone the repository** to your local machine:
+   
    ```bash
    git clone https://github.com/yourusername/turtle-racing-game.git 
 ```
 2. Navigate to the project directory:
+
    ```bash
    cd turtle-racing-game 
 ```
 3. Run the game:
+   
    ```bash
    python3 main.py
 ```
