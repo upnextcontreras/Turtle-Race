@@ -35,6 +35,7 @@ Welcome to the **Turtle Racing Game**! This Python program uses the `turtle` mod
    ```bash
    python3 main.py
 ```
+
 4. Follow the on-screen instructions:
    - Enter the number of racers(between 2 and 10).
    - Enter the number of rounds for the tournament.
