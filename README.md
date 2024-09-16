@@ -28,7 +28,7 @@ Clone the repository** to your local machine:
 
 Navigate to the project directory:
    ```bash
-      cd turtle-racing-game
+   cd turtle-racing-game
 ```
    
 Run the game:
