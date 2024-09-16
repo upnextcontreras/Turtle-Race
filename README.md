@@ -35,7 +35,7 @@ Welcome to the **Turtle Racing Game**! This Python program uses the `turtle` mod
 
 ## Example Output
 
-<img width="300" height="300" alt="OUTPUT" src="https://github.com/user-attachments/assets/441ba0bc-e097-4b26-9f0f-76e9aa14b799">
+<img width="500" height="300" alt="OUTPUT" src="https://github.com/user-attachments/assets/441ba0bc-e097-4b26-9f0f-76e9aa14b799">
 
 
 ## Customization
