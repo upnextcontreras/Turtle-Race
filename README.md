@@ -52,3 +52,7 @@ You can customize the turtle racing game in several ways:
    - Change the colors of the turtles by modifying the COLORS list in the TurtleRace class.
    - Adjust the size of the racing screen by modifying the WIDTH and HEIGHT variables.
    - Modify the movement speed by changing the range in the random.randrange(1, 20) function inside the race() method.
+
+## Disclaimer
+
+I am not maintaining this code; it is just for learning and educational purposes.
